@@ -1,0 +1,8 @@
+temperature = 20
+if temperature == 10:    print("it's gonna be a perfect day")
+elif temperature >= 20: print( "gonna be a hot one")
+elif temperature <= 0 : print("its gonna be a cold one")
+else: print("i guess it'll be alright")
+"""My only mistake on this was LINE 2 where if temporature
+was equal to 10 and I forgot to put two "==" instead one "=" 
+"""

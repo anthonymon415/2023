@@ -1,0 +1,7 @@
+
+input = 20
+num1 = 10 
+num2 = 20
+if input >= num1 or input < num2 :print ("it fits inside ")
+elif num2 == input: print (" it is not between 10 and 20")
+else :print (" it is not between 10 and 20")

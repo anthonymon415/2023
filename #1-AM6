@@ -1,0 +1,5 @@
+
+
+if input == 4:print ("They are equal")
+else : print ("they are not equal")
+input =5

@@ -1,0 +1,16 @@
+#calculate the square of a number
+a = 3
+b = 2
+print ( a** b )
+"""In order to find the square of a number we use ** like 9 would be 3 **2.   
+the front of the equation is the base number and the back of the ** is the exponent"""
+
+#There is also another method of completion using loops
+# to calculate the same result without using the ** operator,use loop to perform repeated multiplication:
+#NEEDS TO BE LEARNED
+"""
+result = 1
+for _ in range(b):
+    result *= a
+print(result)
+"""

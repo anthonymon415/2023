@@ -1,0 +1,10 @@
+# make an action that lets you know if the number is odd or even
+number = 19
+if number % 2 == 0: print (" it is even")
+else: print ("it is odd")
+print(number)
+
+number = 19
+if number % 2 == 0: print (" it is even")
+else: print ("it is odd")
+print(number)

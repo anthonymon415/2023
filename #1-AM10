@@ -1,0 +1,7 @@
+#Formula for area of rectangle is length x width
+input_length = 9
+input_width = 5
+result = input_length * input_width
+if result > 50: 
+    print(f"cant print area of triangle due to {input_length} and {input_width} greater than 50")
+else: print(f" area of trinagle is {result}")

@@ -1,0 +1,4 @@
+kilometers = 1.609344
+input_kilometers = 1.609344
+miles = input_kilometers/ kilometers
+if miles == 1 :print (f"{miles} mile")

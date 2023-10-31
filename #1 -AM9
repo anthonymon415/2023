@@ -1,0 +1,6 @@
+# a function that checks if an input is odd or even
+input = 10
+b = 2
+result = input % b 
+if result ==1 : print (f"your {input} is odd")
+else: print (f"your {input} is even ")
